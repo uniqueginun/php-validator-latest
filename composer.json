@@ -1,0 +1,12 @@
+{
+  "name": "uniqueginun/validator",
+  "description": "A PHP Validator",
+  "autoload": {
+    "psr-4": {
+      "Uniqueginun\\": "src"
+    }
+  },
+  "require": {
+    "symfony/var-dumper": "^5.1"
+  }
+}
